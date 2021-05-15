@@ -18,7 +18,7 @@ Non-dimensional governing equations for the Quasi 1D Converging-Diverging Nozzl
 6. Grid Sensitivity study.
 
 # Procedure of running the script
-1. Download the main_code, non_conservative_form & conservative_form file.
+1. Download the main_code, non_conservative_form & conservative_form file (3 files).
 2. Copy and Save all three files in a same folder.
 3. Open all three scripts using MATLAB. Do not change any value in any of the code. 
 4. Run the main_code. It will start the simulation.
